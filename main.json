@@ -1,0 +1,58 @@
+{
+	"profile":{
+	"img":"pic.jpg",
+	"name":"suma",
+	"designation":"student",
+	"roll":"1231",		 		
+	"college":"vignans nirula"
+		},
+		"career":{
+			"Info":"To work in the company with the positive atmosphere which will inspire me to enhance my skills"
+		},
+		"educational":[
+
+			{  
+				"degree":"b.tech",
+				"institution":"vignans nirula",
+				"yop":"2020"
+
+			},
+			{
+				"degree":"intermediate",
+				"institution":"srichaitanya",
+				"yop":"2016"
+			},
+			{
+				"degree":"s.s.c",
+				"institution":"unique concept school",
+				"yop":"2014"
+			}
+		],
+		"languages":[
+			{
+				"lang":"telugu"
+
+			},
+			{
+				"lang":"english"
+			},
+			{
+				"lang":"hindi"
+			}
+		],
+		"skills":[
+			{
+				"title":"platforms",
+				"content":"windows,linux"
+			},
+			{
+				"title":"programing languages",
+				"content":"c,c++,java,python,rp,html"
+			},
+			{
+				"title":"database",
+				"content":"mysql"
+			}
+
+		]
+}
